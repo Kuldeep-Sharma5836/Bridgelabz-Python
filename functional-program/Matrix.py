@@ -1,7 +1,7 @@
 n=int(input("Enter no row : "))
 m=int(input("Enter no column :  "))
 arr=[]
-l
+
 for i in range(n):
     l=[]
     for i in range(m):
